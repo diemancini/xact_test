@@ -1,0 +1,87 @@
+[
+{
+    "model": "server.variable",
+    "pk": 1,
+    "fields": {
+        "name": "Diego",
+        "type": "boolean"
+    }
+},
+{
+    "model": "server.booleanvalue",
+    "pk": 1,
+    "fields": {
+        "value": true
+    }
+},{
+    "model": "server.variable",
+    "pk": 2,
+    "fields": {
+        "name": "Martin",
+        "type": "boolean"
+    }
+},
+{
+    "model": "server.booleanvalue",
+    "pk": 2,
+    "fields": {
+        "value": true
+    }
+},{
+    "model": "server.variable",
+    "pk": 3,
+    "fields": {
+        "name": "Mancini",
+        "type": "string"
+    }
+},
+{
+    "model": "server.stringvalue",
+    "pk": 3,
+    "fields": {
+        "value": "surname"
+    }
+},{
+    "model": "server.variable",
+    "pk": 4,
+    "fields": {
+        "name": "Cake",
+        "type": "string"
+    }
+},
+{
+    "model": "server.stringvalue",
+    "pk": 4,
+    "fields": {
+        "value": "sugar"
+    }
+},{
+    "model": "server.variable",
+    "pk": 5,
+    "fields": {
+        "name": "Docker",
+        "type": "boolean"
+    }
+},
+{
+    "model": "server.booleanvalue",
+    "pk": 5,
+    "fields": {
+        "value": false
+    }
+},{
+    "model": "server.variable",
+    "pk": 6,
+    "fields": {
+        "name": "Vue",
+        "type": "string"
+    }
+},
+{
+    "model": "server.stringvalue",
+    "pk": 6,
+    "fields": {
+        "value": "frontend"
+    }
+}
+]
