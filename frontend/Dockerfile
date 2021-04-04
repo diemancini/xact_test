@@ -19,5 +19,3 @@ RUN npm install --save axios
 ENV PORT=8080
 
 EXPOSE 8080
-
-CMD quasar dev
